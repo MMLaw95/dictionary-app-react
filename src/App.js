@@ -9,7 +9,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer className="App-footer text-center">
           <small>
             <a
               href="https://github.com/MMLaw95/dictionary-app-react"
