@@ -10,10 +10,15 @@
 } */
 
 .Phonetic .fa-headphones-simple {
-  margin: 20px;
+  margin: 20px 10px;
   color: #f4b400;
   position: relative;
-  left: -23px;
+  left: -10px;
+}
+
+Phonetic .phonetic-text {
+  position: relative;
+  left: -10px;
 }
 
 .Phonetic .red {
