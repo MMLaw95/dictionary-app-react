@@ -5,8 +5,15 @@
   --quaternary-color: #0f9d58;
 }
 
-.Phonetic {
+/* .Phonetic {
   height: 60px;
+} */
+
+.Phonetic .fa-headphones-simple {
+  margin: 20px;
+  color: #f4b400;
+  position: relative;
+  left: -23px;
 }
 
 .Phonetic .red {
