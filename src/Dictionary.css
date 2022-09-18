@@ -26,6 +26,11 @@
   border: 1px solid #dcdcdc;
 }
 
+.Dictionary input::placeholder {
+  color: #0f9d58;
+  font-weight: bold;
+}
+
 /* .Dictionary .hint {
   font-size: 12px;
   margin-top: 5px;

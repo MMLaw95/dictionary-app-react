@@ -1,3 +1,14 @@
+:root {
+  --branding-color: #4285f4;
+  --secondary-color: #db4437;
+  --tertiary-color: #f4b400;
+  --quaternary-color: #0f9d58;
+}
+
+.App {
+  margin: 0 auto;
+}
+
 .App-header {
   text-align: center;
   margin: 248px 30px -23px;
@@ -5,13 +16,6 @@
 
 .App .container {
   max-width: 930px;
-}
-
-:root {
-  --branding-color: #4285f4;
-  --secondary-color: #db4437;
-  --tertiary-color: #f4b400;
-  --quaternary-color: #0f9d58;
 }
 
 .App .blue {
