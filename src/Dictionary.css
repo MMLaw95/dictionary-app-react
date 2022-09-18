@@ -35,3 +35,33 @@
   font-size: 12px;
   margin-top: 5px;
 } */
+
+@media (max-width: 670px) {
+  .Dictionary input {
+    width: 100%;
+  }
+}
+
+@media (max-width: 520px) {
+  .Dictionary input {
+    width: 416px;
+  }
+}
+
+@media (max-width: 475px) {
+  .Dictionary input {
+    width: 350px;
+  }
+}
+
+@media (max-width: 430px) {
+  .Dictionary input {
+    width: 291px;
+  }
+}
+
+@media (max-width: 380px) {
+  .Dictionary input {
+    width: 245px;
+  }
+}
