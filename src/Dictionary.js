@@ -26,10 +26,15 @@ export default function Dictionary() {
     <div className="Dictionary">
       <section className="form">
         <form onSubmit={search} className="inputForm text-center">
-          <input type="search" onChange={handleKeywordChange} />
+          <input
+            type="search"
+            onChange={handleKeywordChange}
+            autoComplete="off"
+            placeholder="Look it Up..."
+          />
         </form>
         <div className="hint">
-          suggestions: computer, code, camera, cassette
+          {/* suggestions: computer, code, camera, cassette */}
         </div>
       </section>
       <Results results={results} />

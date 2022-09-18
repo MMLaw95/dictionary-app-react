@@ -1,13 +1,47 @@
 .App-header {
   text-align: center;
-  margin: 30px;
+  margin: 248px 30px -23px;
+}
+
+.App .container {
+  max-width: 930px;
+}
+
+:root {
+  --branding-color: #4285f4;
+  --secondary-color: #db4437;
+  --tertiary-color: #f4b400;
+  --quaternary-color: #0f9d58;
+}
+
+.App .blue {
+  color: var(--branding-color);
+}
+
+.App .red {
+  color: var(--secondary-color);
+}
+
+.App .yellow {
+  color: var(--tertiary-color);
+}
+
+.App .green {
+  color: var(--quaternary-color);
+}
+
+.App h1 {
+  font-size: 84px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  letter-spacing: -3px;
+}
+
+.App a {
+  text-decoration: none;
 }
 
 .App-footer {
   text-align: center;
   margin: 30px;
-}
-
-.App a {
-  text-decoration: none;
 }

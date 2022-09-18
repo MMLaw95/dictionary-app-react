@@ -6,7 +6,18 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <h1>Dictionary</h1>
+          <h1>
+            <span className="blue">D</span>
+            <span className="red">i</span>
+            <span className="yellow">c</span>
+            <span className="blue">t</span>
+            <span className="green">i</span>
+            <span className="red">o</span>
+            <span className="blue">n</span>
+            <span className="red">a</span>
+            <span className="yellow">r</span>
+            <span className="green">y</span>
+          </h1>
         </header>
         <main>
           <Dictionary />
