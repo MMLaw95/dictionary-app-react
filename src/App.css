@@ -67,3 +67,9 @@
     font-size: 55px;
   }
 }
+
+@media (max-width: 325px) {
+  .App-header {
+    margin: 200px 30px -23px;
+  }
+}
