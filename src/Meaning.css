@@ -1,2 +1,14 @@
+.Meaning h3 {
+  line-height: 1.2;
+}
+
 .Meaning .definition {
+}
+
+.Meaning .example {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.Meaning .synonym {
 }
