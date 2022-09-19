@@ -46,6 +46,7 @@ export default function Dictionary() {
             onChange={keywordInput}
             autoComplete="off"
             placeholder="Look it Up..."
+            className="search-bar"
           />
         </form>
         <div className="hint">

@@ -1,14 +1,3 @@
-:root {
-  --branding-color: #4285f4;
-  --secondary-color: #db4437;
-  --tertiary-color: #f4b400;
-  --quaternary-color: #0f9d58;
-}
-
-.Results .blue {
-  color: var(--branding-color);
-}
-
 .Results h2 {
   font-size: 36px;
   font-weight: bold;

@@ -31,6 +31,12 @@
   font-weight: bold;
 }
 
+.Dictionary .search-bar:hover {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.Dictionary .search-bar:focus-within {
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
 /* .Dictionary .hint {
   font-size: 12px;
   margin-top: 5px;

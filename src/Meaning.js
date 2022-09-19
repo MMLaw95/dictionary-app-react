@@ -12,15 +12,12 @@ export default function Meaning(props) {
             <div key={index}>
               {/* <Phonetic phonetic={definition.phonetic} /> */}
               <div className="definition">{definition.definition}</div>
-              <br />
+              <div className="synonym">
+                <Synonyms synonyms={definition.synonyms} />
+              </div>
               <div className="example">
-                <strong>Ex: </strong>
                 <em>{definition.example}</em>
               </div>
-              <br />
-
-              <strong>Synonyms: </strong>
-              <Synonyms synonyms={definition.synonyms} />
             </div>
           );
         })}

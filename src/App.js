@@ -31,7 +31,8 @@ function App() {
             >
               Open-source
             </a>{" "}
-            by <a href="mailto:mlawry95@gmail.com">M.M. Lawry</a>
+            <span className="lighten">by</span>{" "}
+            <a href="mailto:mlawry95@gmail.com">M.M. Lawry</a>
           </small>
         </footer>
       </div>
