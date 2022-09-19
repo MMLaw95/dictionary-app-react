@@ -21,3 +21,9 @@
   color: #0f9d58;
   font-weight: bold;
 }
+
+@media (max-width: 588px) {
+  .Meaning .example {
+    margin-bottom: 30px;
+  }
+}
