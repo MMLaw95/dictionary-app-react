@@ -41,6 +41,7 @@ export default function Dictionary() {
     <div className="Dictionary">
       <section className="form">
         <form onSubmit={search} className="inputForm text-center">
+          <i class="fa-solid fa-sm fa-magnifying-glass"></i>
           <input
             type="search"
             onChange={keywordInput}
