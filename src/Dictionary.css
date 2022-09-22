@@ -43,6 +43,15 @@
 .Dictionary .search-bar:focus-within {
   box-shadow: 1px 1px 8px 1px #dcdcdc;
 }
+
+/* input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  background-image: url("close.png");
+} */
+
 /* .Dictionary .hint {
   font-size: 12px;
   margin-top: 5px;
