@@ -32,7 +32,7 @@ function App() {
               Open-source
             </a>{" "}
             <span className="lighten">by</span>{" "}
-            <a href="mailto:mlawry95@gmail.com">M.M. Lawry</a>
+            <a href="mailto:mlawry95@gmail.com">M.M.L.</a>
           </small>
         </footer>
       </div>
