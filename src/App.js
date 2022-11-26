@@ -25,14 +25,14 @@ function App() {
         <footer className="App-footer text-center">
           <small>
             <a
-              href="https://github.com/MMLaw95/dictionary-app-react"
+              href="https://github.com/mml95/dictionary-app-react"
               target="_blank"
               rel="noreferrer"
             >
               Open-source
             </a>{" "}
             <span className="lighten">by</span>{" "}
-            <a href="mailto:mlawry95@gmail.com">M.M.L.</a>
+            <a href="mailto:mml@mml95.dev">M.M.L.</a>
           </small>
         </footer>
       </div>
