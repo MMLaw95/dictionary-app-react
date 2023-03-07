@@ -1,5 +1,6 @@
 import "./App.css";
 import Dictionary from "./Dictionary";
+import pexelsLogo from "./pexelsLogo.jpg";
 
 function App() {
   return (
@@ -32,7 +33,18 @@ function App() {
               Open-source
             </a>{" "}
             <span className="lighten">by</span>{" "}
-            <a href="mailto:mml@mml95.dev">MML</a>
+            <a href="mailto:mml@mml95.dev" target="_blank">
+              MML
+            </a>{" "}
+            <a href="https://www.pexels.com/" target="_blank">
+              <img
+                src={pexelsLogo}
+                alt="pexels logo"
+                height="15"
+                width="15"
+                className="mb-1"
+              />
+            </a>
           </small>
         </footer>
       </div>
