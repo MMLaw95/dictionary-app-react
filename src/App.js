@@ -33,10 +33,10 @@ function App() {
               Open-source
             </a>{" "}
             <span className="lighten">by</span>{" "}
-            <a href="mailto:mml@mml95.dev" target="_blank">
+            <a href="mailto:mml@mml95.dev" target="_blank" rel="noreferrer">
               MML
             </a>{" "}
-            <a href="https://www.pexels.com/" target="_blank">
+            <a href="https://www.pexels.com/" target="_blank" rel="noreferrer">
               <img
                 src={pexelsLogo}
                 alt="pexels logo"
