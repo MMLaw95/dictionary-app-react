@@ -39,8 +39,8 @@ function App() {
             <a href="https://www.pexels.com/" target="_blank" rel="noreferrer">
               <img
                 src={pexelsLogo}
-                alt="pexels logo"
-                title="pexels logo"
+                alt="Pexels logo"
+                title="Pexels logo"
                 height="12"
                 width="12"
                 className="mb-1"
