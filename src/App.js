@@ -40,8 +40,9 @@ function App() {
               <img
                 src={pexelsLogo}
                 alt="pexels logo"
-                height="10"
-                width="10"
+                title="pexels logo"
+                height="12"
+                width="12"
                 className="mb-1"
               />
             </a>
